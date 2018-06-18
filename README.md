@@ -16,6 +16,37 @@ https://steamcommunity.com/workshop/filedetails/?id=557962238
 Official Site of the Developer from ULX and ULib: 
 http://ulyssesmod.net/
 
+# Why do you need ULX for this Script?!
+It's simple. To be honest you can use EVERY Playergroup tool for Gmod. You need a Playergroup tool for the Tables:
+
+HP:
+
+	local rankshp = {
+		["superadmin"] = 999,
+		["user"] = 100,
+		["premium"] = 500
+	}
+
+Weapons:
+
+	local rankswp = {
+		["superadmin"] = "weapon_physgun",
+		["user"] = "weapon_crowbar",
+		["premium"] = "weapon_crowbar"
+	}
+  
+Armor:
+
+	local ranksarm = {
+		["superadmin"] = 1000,
+		["user"] = 100,
+		["premium"] = 250
+	}
+
+If you don't have ULX on the Server and not the Groups that are in this Script it won't will work rightly! Write me on Steam if you have more questions!
+
+https://steamcommunity.com/id/Lukas_aka_Lurito/
+
 
 # Version
 This is the First Version of the Script (18.06.2018) [v. 1.0]
