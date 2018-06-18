@@ -7,9 +7,14 @@ put the sp-config.lua and sp-server.lua into your server\GarrysMod\garrysmod\lua
 # What you need / requirements
 You REALLY NEED ULX. What is ULX?! ULX is a Rank System for your Server with permissions for each Playergroup! So you can control your Server easily! To start ULX you need ULib!
 
-ULX in workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=557962280
-ULib in workshop: https://steamcommunity.com/workshop/filedetails/?id=557962238
-Official Site of the Developer from ULX and ULib: http://ulyssesmod.net/
+ULX in workshop: 
+https://steamcommunity.com/sharedfiles/filedetails/?id=557962280
+
+ULib in workshop: 
+https://steamcommunity.com/workshop/filedetails/?id=557962238
+
+Official Site of the Developer from ULX and ULib: 
+http://ulyssesmod.net/
 
 
 # Version
