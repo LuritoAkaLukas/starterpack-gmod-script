@@ -5,7 +5,7 @@ This Script replaces the Gamemode Spawn function! Feel Free to use!
 put the sp-config.lua and sp-server.lua into your server\GarrysMod\garrysmod\lua folder! then just write into the Server console "lua_openscript sp-server.lua" you can also put this into your Start config 
 
 # Version
-This is the First Version of the Script (18.06.2018) [v. 0.1
+This is the First Version of the Script (18.06.2018) [v. 1.0]
 
 # Changelog
 
